@@ -11,14 +11,14 @@ This website is a comprehensive full-stack application featuring JWT user authen
 
 ## Usage
 - .env 
- - .env file with SECRET_KEY and REFRESH_SECRET_KEY is included in the package. Can customize secret_key for security purposes.
+  - .env file with SECRET_KEY and REFRESH_SECRET_KEY is included in the package. Can customize secret_key for security purposes.
 - connection to database
- - Need to input personal information, icluding host, user, password, database, in line 25 main.js and setup.py files in server directory to connect to your database.
+  - Need to input personal information, icluding host, user, password, database, in line 25 main.js and setup.py files in server directory to connect to your database.
 - JWT token duration
- - Can customize JWT tokens duration in main.js in server directory.
- - Customize refresh token in line 19 in unit of days 'd', initial access token in line 76, and refreshed access token in line 367.
+  - Can customize JWT tokens duration in main.js in server directory.
+  - Customize refresh token in line 19 in unit of days 'd', initial access token in line 76, and refreshed access token in line 367.
 - npm run dev
- - To start the server 
+  - To start the server 
 - npm start
   - To start the client
 ## Acknowledgements
