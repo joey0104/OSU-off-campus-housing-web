@@ -25,8 +25,8 @@ let loginDate
 const db_connection = mysql.createConnection({
     host:'localhost',
     user:'root',       
-    password:'8432610104Joey!', 
-    database:'housing_web'
+    password:'', 
+    database:''
 })
 
 //middleware autheticate token
