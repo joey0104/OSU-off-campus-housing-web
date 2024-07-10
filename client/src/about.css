@@ -1,0 +1,18 @@
+.postCard h3{
+    color: #535356;
+    border: solid;
+    border-color: #C7C7CB;
+    height: 25px;
+    padding: 5px;
+    font-size: 20px;
+    width: 400px;
+}
+.postCard h1{
+     margin-left: 10px;
+}
+#info{
+    height:200px;
+}
+.postCard{
+    margin: 10px;
+}

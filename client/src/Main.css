@@ -1,0 +1,107 @@
+.header{
+    background-image: url("./imgs/header.png");
+    background-position: center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-color: #C01F1F;
+    height: 40px;
+    position: relative;
+    width: 100%;
+}
+.houses{
+    border: solid;
+    border-color: white;
+    grid-template-columns: 15% 85%;
+    display: grid;
+    height: 95vh;
+}
+.filter{
+    margin-right: 3px;
+    border: solid;
+    border-width: 3px;
+    border-color: black;
+    padding: 3px;
+}
+.cards{
+    border: solid;
+    border-width: 3px;
+    border-color: black;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    display: grid;
+}
+.card{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    height: auto;
+}
+.address h2{
+    font-weight: 700;
+    color: black;
+}
+.button1{
+    width: 180px;
+    height: 30px;
+    background-color: #C01F1F;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+.content3 h3{
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    margin-top:0;
+    margin-bottom:10;
+    font-size: 15px;
+}
+label{
+    color: black;
+}
+.filter input{
+    width: 70%;
+    height: 20px;
+}
+.heart{
+    padding: 3px;
+    background-color: white;
+    border: none;
+    font-size: 2rem;
+    margin-left: 180px;
+    color: black;
+    cursor:grab;
+}
+.heart:active {
+    color: red; 
+    transform: scale(1.1); 
+    transition: transform 0.2s ease, color 0.2s ease; 
+  }
+.userButton{
+    position: absolute;
+    border: none;
+    background-color: #C01F1F;
+    font-size: 1.7rem;
+    right: 4%;
+    top: 10%;
+    color: white;
+}
+.addPost{
+    position: absolute;
+    border: none;
+    background-color: #C01F1F;
+    font-size: 1.7rem;
+    right: 7%;
+    top: 10%;
+    color: white;
+}
+.logoutButton{
+    position: absolute;
+    border: none;
+    background-color: #C01F1F;
+    font-size: 1.7rem;
+    right: 1%;
+    top: 10%;
+    color: white;
+}
+

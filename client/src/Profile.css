@@ -1,0 +1,59 @@
+.content{
+    border: solid;
+    border-color: black;
+    grid-template-columns: 50% 50%;
+    display: grid;
+}
+.profile{
+    border: solid;
+    border-color: yellow;
+    margin: 3px;
+}
+.liked{
+    grid-template-columns: 33% 33% 33%;
+    display: grid;
+}
+.liked_house{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    height: auto;
+    margin: 5px;
+}
+.posts{
+    border: solid;
+    border-color: green;
+    margin: 3px;
+}
+.profile h3{
+    color: #535356;
+    border: solid;
+    border-color: #C7C7CB;
+    height: 40px;
+    line-height: 40px;
+    padding: 5px;
+}
+.profile h5{
+    color: #535356;
+    border: solid;
+    border-color: #C7C7CB;
+    height: 200px;
+    padding: 2px;
+    font-size: 15px;
+}
+.profile h1{
+    padding: 20px;
+}
+.profileContent{
+    margin: 30px;
+
+}
+.MyPosts{
+    grid-template-columns: 33% 33% 33%;
+    display: grid;
+}
+.MyPost{
+    border: solid;
+    text-align: center;
+    margin: 5px;
+}

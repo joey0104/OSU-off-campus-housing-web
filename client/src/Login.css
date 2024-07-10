@@ -1,0 +1,63 @@
+.header{
+    background-image: url("./imgs/header.png");
+    background-position: center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-color: #C01F1F;
+    height: 45px;
+}
+.content1{
+    grid-template-columns: 50% 50%;
+    display: grid;
+    height: 95vh;
+}
+.logIn{
+    padding: 50px;
+    line-height: 50px;
+}
+.img{
+    background-image: url('./imgs/page.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: #25284E;
+    font-weight: 600;
+}
+input{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #C7C7CB;
+    font-size: 18px;
+    color: #535356;
+}
+label{
+    font-weight: 500;
+}
+.loginButton{
+    width: 100%;
+    background-color: #C01F1F;
+    color: white;
+    height: 45px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.account{
+    font-weight: 300;
+}
+.noAccount{
+    text-align: center;
+}
+#bio{
+    height: 200px;
+    width: 100%;
+}
+#rent{
+    width: 30%;
+}
