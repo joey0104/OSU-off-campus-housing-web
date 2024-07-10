@@ -15,7 +15,7 @@ def maxPage():
 
 # get the housing information and upload it to database
 def getInfo(cursor, db_connection):
-    for i in range(30):
+    for i in range(maxPage()):
         url = "https://offcampus.osu.edu/search-housing.aspx?page=" + str(
                 i) + "&pricefrom=0&sort=1&alllandlords=0"
         r = requests.get(url)
