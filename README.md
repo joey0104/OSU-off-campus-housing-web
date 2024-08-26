@@ -28,9 +28,8 @@ This website is a comprehensive full-stack application featuring JWT user authen
 - MySQL as database.
 
 ![signup](https://github.com/user-attachments/assets/f72395f2-dc4c-4204-b787-963f0cfe847b)
-<img width="1437" alt="profile2" src="https://github.com/user-attachments/assets/88519f89-317c-4cf6-a9e4-2dad0b2bde0a">
-<img width="1437" alt="profile1" src="https://github.com/user-attachments/assets/c3db7d59-b029-4832-bc50-9be0babd01e7">
-<img width="1436" alt="post" src="https://github.com/user-attachments/assets/31f20437-3339-4fb5-bb72-cdc9c0beaada">
 <img width="1435" alt="main" src="https://github.com/user-attachments/assets/cbaf9632-849b-42e7-8aee-6a8287ecdd63">
-<img width="1438" alt="login" src="https://github.com/user-attachments/assets/5a293ead-addc-4b49-82aa-c53374b00173">
+<img width="1436" alt="post" src="https://github.com/user-attachments/assets/31f20437-3339-4fb5-bb72-cdc9c0beaada">
+<img width="1437" alt="profile1" src="https://github.com/user-attachments/assets/c3db7d59-b029-4832-bc50-9be0babd01e7">
+<img width="1437" alt="profile2" src="https://github.com/user-attachments/assets/88519f89-317c-4cf6-a9e4-2dad0b2bde0a">
 <img width="1438" alt="liked" src="https://github.com/user-attachments/assets/9095d56c-481f-442e-8688-50147b719a33">
