@@ -34,7 +34,7 @@ This website is a comprehensive full-stack application featuring JWT user authen
 - signup page
   ![signup](https://github.com/user-attachments/assets/f72395f2-dc4c-4204-b787-963f0cfe847b)
 - main page with housing posts and filters
-  <img width="1435" alt="main" src="https://github.com/user-attachments/assets/cbaf9632-849b-42e7-8aee-6a8287ecdd63
+  <img width="1435" alt="main" src="https://github.com/user-attachments/assets/cbaf9632-849b-42e7-8aee-6a8287ecdd63">
 - creating a new housing/sublease post
   <img width="1436" alt="post" src="https://github.com/user-attachments/assets/31f20437-3339-4fb5-bb72-cdc9c0beaada">
 - profile page with personal information and posts you created and liked
