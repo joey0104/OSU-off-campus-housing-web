@@ -30,9 +30,15 @@ This website is a comprehensive full-stack application featuring JWT user authen
 - JWT (JSON Wen Token) for user authentication, with token and refresh token for temporary access
 - MySQL as database.
 
+## Display
+- signup page
 ![signup](https://github.com/user-attachments/assets/f72395f2-dc4c-4204-b787-963f0cfe847b)
-<img width="1435" alt="main" src="https://github.com/user-attachments/assets/cbaf9632-849b-42e7-8aee-6a8287ecdd63">
+- main page with housing posts and filters
+<img width="1435" alt="main" src="https://github.com/user-attachments/assets/cbaf9632-849b-42e7-8aee-6a8287ecdd63
+- creating a new housing/sublease post
 <img width="1436" alt="post" src="https://github.com/user-attachments/assets/31f20437-3339-4fb5-bb72-cdc9c0beaada">
+- profile page with personal information and posts you created and liked
 <img width="1437" alt="profile1" src="https://github.com/user-attachments/assets/c3db7d59-b029-4832-bc50-9be0babd01e7">
 <img width="1437" alt="profile2" src="https://github.com/user-attachments/assets/88519f89-317c-4cf6-a9e4-2dad0b2bde0a">
+- users that have liked the same post for roommate matching
 <img width="1438" alt="liked" src="https://github.com/user-attachments/assets/9095d56c-481f-442e-8688-50147b719a33">
