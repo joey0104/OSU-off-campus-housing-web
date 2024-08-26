@@ -1,7 +1,9 @@
 # OSU Off-Campus Housing Website
-A wesbite to enhance stduents experience in seeking for houses, subleasing, and roommates.
+A wesbite to enhance stduent's experience in seeking for houses, subleasing, and roommates.
+
 ## Description
-This website is a comprehensive full-stack application featuring JWT user authentication. It integrates housing posts from the official OSU website and enables users to submit their own housing and sublease posts. The platform includes a like feature for roommate searches and a filter functionality to enhance the user experience.
+This website is a comprehensive full-stack application featuring JWT user authentication with refrehs token for temporary access. It integrates housing posts from the official OSU website and enables users to submit their own housing and sublease posts. The platform includes a like feature for roommate searches and a filter functionality to enhance the user experience.
+
 ## Installation and setup
 - Install Node.js
 - npm install (install dependencies)
@@ -21,10 +23,11 @@ This website is a comprehensive full-stack application featuring JWT user authen
   - To start the server 
 - npm start
   - To start the client
+
 ## Acknowledgements
 - Express.js as back-end server
 - React.js as front-end
-- JWT (JSON Wen Token) for user authentication
+- JWT (JSON Wen Token) for user authentication, with token and refresh token for temporary access
 - MySQL as database.
 
 ![signup](https://github.com/user-attachments/assets/f72395f2-dc4c-4204-b787-963f0cfe847b)
