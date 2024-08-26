@@ -26,4 +26,5 @@ This website is a comprehensive full-stack application featuring JWT user authen
 - React.js as front-end
 - JWT (JSON Wen Token) for user authentication
 - MySQL as database.
-![Login](/Users/joeychiu/Documents/housing_web images)
+  
+![Login](/Users/joeychiu/Documents/housing_web images/signup.jpg)
